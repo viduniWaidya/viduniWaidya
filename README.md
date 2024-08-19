@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=viduniwaidya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+- 👯 I’m studying at [Sabaragamuwa University of Sri Lanaka](https://www.sab.ac.lk/)
 - 🔭 I’m currently working on **BuildMate+**
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me **viduniwaidya2000@gmail.com**
