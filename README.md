@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/viduniwaidya" target="_blank">
+  <a href="https://linkedin.com/in/viduni Waidyaratne" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" />
   </a>
-  <a href="https://fb.com/viduniwaidya" target="_blank">
+  <a href="https://fb.com/viduni Waidyaratne" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" />
   </a>
   <a href="https://instagram.com/viduni_waidyaratne" target="_blank">
